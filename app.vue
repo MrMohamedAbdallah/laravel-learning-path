@@ -21,7 +21,7 @@ const completedPercentageDisplay = computed(() => Math.floor(completedPercentage
 <template>
   <main class="max-w-7xl px-4 mx-auto py-20">
     <div class="text-center mb-4">
-      <h1 class="text-4xl font-bold mb-4">Laravel Learning Path</h1>
+      <h1 class="text-4xl font-bold mb-4">Laravel Roadmap Learning Path</h1>
       <p class="my-1 text-slate-800">This repository contains the <strong>ordered</strong> list of Laravel
         topics to learn, step-by-step, with related links.</p>
       <p class="my-1 text-slate-800">
