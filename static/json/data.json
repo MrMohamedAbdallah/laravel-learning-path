@@ -1,6 +1,7 @@
 {
   "beginner": {
     "title": "Beginner",
+    "subtitle": "Create your very first simple Laravel project",
     "data": [
       {
         "topic": "Routing and Controllers: Basics",
@@ -346,8 +347,9 @@
       }
     ]
   },
-  "advanced-beginner": {
+  "advancedBeginner": {
     "title": "Advanced Beginner",
+    "subtitle": "The goal of this level is to find the first job or freelance gig",
     "data": [
       {
         "topic": "Routing Advanced",
@@ -889,6 +891,7 @@
   },
   "mid": {
     "title": "Mid Level",
+    "subtitle": "Master all Laravel features with 3-5 years of practical experience",
     "data": [
       {
         "topic": "Route Caching",
@@ -1387,6 +1390,7 @@
   },
   "senior": {
     "title": "Senior Level",
+    "subtitle": "Responsibility for architecture decisions on large projects",
     "data": [
       {
         "topic": "PHP/Laravel Design Patterns",
