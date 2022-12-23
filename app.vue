@@ -1,5 +1,21 @@
 <script setup>
 import data from '~/static/json/data.json';
+import { useStorage } from '@vueuse/core';
+
+const levelsLabels = ["beginner","advancedBeginner","mid","senior"];
+
+const topicsCount = computed(() => {
+  return levelsLabels.reduce((a, b) => a + data[b].data.length, 0);
+});
+
+const completedCount = computed(() => {
+  return levelsLabels.reduce((a, b) => a + useStorage(b, []).value.length, 0);
+});
+
+const completedPercentage = computed(() => {
+  return (completedCount.value / topicsCount.value) * 100;
+})
+const completedPercentageDisplay = computed(() => Math.floor(completedPercentage.value) + '%')
 </script>
 
 <template>
@@ -28,6 +44,23 @@ import data from '~/static/json/data.json';
       </p>
       <p class="text-sm text-slate-500">Your progress is saved locally on your machine.</p>
     </div>
+
+    <!-- Progress -->
+    <div class="flex items-center justify-between my-8">
+      <div>
+        <span class="d-block">0%</span>
+      </div>
+      <div class="grow rounded-full bg-indigo-200 mx-2 relative">
+        <div class="h-3 rounded-full bg-indigo-500 relative transition-all" :style="{width: completedPercentage + '%'}">
+          <span class="text-indigo-500 font-bold absolute bottom-full left-full">{{ completedPercentageDisplay }}</span>
+          <span class="text-indigo-400 text-sm absolute top-full left-full">{{ completedCount }}</span>
+        </div>
+        <span class="text-indigo-400 text-sm absolute top-[calc(100%_+_18px)] right-0 whitespace-nowrap">Total: {{ topicsCount }}</span>
+      </div>
+      <span>100%</span>
+    </div>
+    <!-- /Progress -->
+
     <LevelCard :level="data.beginner" storage-key="beginner" class="mb-10">
       <template #footer>
         <h3 class="text-xl font-bold">Beginner Demo-Project: Personal Blog</h3>
