@@ -5,6 +5,7 @@
     "data": [
       {
         "topic": "Routing and Controllers: Basics",
+        "id": 1,
         "tests": [
           {
             "title": "Let's Test Your Laravel Routing Skills: Complete 12 Tasks",
@@ -14,6 +15,7 @@
       },
       {
         "topic": "Callback Functions and Route::view()",
+        "id": 2,
         "docs": [
           {
             "title": "Basic Routing",
@@ -27,6 +29,7 @@
       },
       {
         "topic": "Routing to a Single Controller Method",
+        "id": 3,
         "docs": [
           {
             "title": "Basic Controllers with Routes",
@@ -36,6 +39,7 @@
       },
       {
         "topic": "Route Naming",
+        "id": 4,
         "docs": [
           {
             "title": "Names Routes",
@@ -51,6 +55,7 @@
       },
       {
         "topic": "Route Groups",
+        "id": 5,
         "docs": [
           {
             "title": "Route Groups",
@@ -70,6 +75,7 @@
       },
       {
         "topic": "Blade Basics",
+        "id": 6,
         "videos": [
           {
             "title": "9 Quick Tips about Laravel Blade",
@@ -85,6 +91,7 @@
       },
       {
         "topic": "Displaying Variables in Blade",
+        "id": 7,
         "docs": [
           {
             "title": "Blade: Displaying Data",
@@ -94,6 +101,7 @@
       },
       {
         "topic": "Blade If-Else and Loop Structures",
+        "id": 8,
         "docs": [
           {
             "title": "Blade: If-Statements",
@@ -107,6 +115,7 @@
       },
       {
         "topic": "Layout: @include, @extends, @section, @yield",
+        "id": 9,
         "docs": [
           {
             "title": "Blade: Layout Using Template Inheritance",
@@ -116,6 +125,7 @@
       },
       {
         "topic": "Blade Components",
+        "id": 10,
         "docs": [
           {
             "title": "Blade Components",
@@ -131,6 +141,7 @@
       },
       {
         "topic": "Auth Basics",
+        "id": 11,
         "videos": [
           {
             "title": "8 Tips & Tricks about Laravel Auth",
@@ -146,6 +157,7 @@
       },
       {
         "topic": "Starter Kits: Breeze (Tailwind) or Laravel UI (Bootstrap)",
+        "id": 12,
         "docs": [
           {
             "title": "Laravel Breeze Official Documentation",
@@ -169,6 +181,7 @@
       },
       {
         "topic": "Default Auth Model and Access its Fields from Anywhere",
+        "id": 13,
         "docs": [
           {
             "title": "Retrieving the Authenticated User",
@@ -178,6 +191,7 @@
       },
       {
         "topic": "Check Auth in Controller / Blade",
+        "id": 14,
         "docs": [
           {
             "title": "Determining If The Current User Is Authenticated",
@@ -191,6 +205,7 @@
       },
       {
         "topic": "Auth Middleware",
+        "id": 15,
         "docs": [
           {
             "title": "Protecting Routes",
@@ -200,6 +215,7 @@
       },
       {
         "topic": "Database Migrations",
+        "id": 16,
         "docs": [
           {
             "title": "Database Migrations",
@@ -225,6 +241,7 @@
       },
       {
         "topic": "Basic Eloquent Model and MVC: Controller -> Model -> View",
+        "id": 17,
         "docs": [
           {
             "title": "Eloquent: Getting Started",
@@ -240,6 +257,7 @@
       },
       {
         "topic": "Eloquent Relationships: belongsTo / hasMany / belongsToMany",
+        "id": 18,
         "docs": [
           {
             "title": "Eloquent Relationships: One-to-One",
@@ -273,6 +291,7 @@
       },
       {
         "topic": "Eager Loading and N+1 Query Problem",
+        "id": 19,
         "docs": [
           {
             "title": "Relationships: Eager Loading",
@@ -288,6 +307,7 @@
       },
       {
         "topic": "Route Resource and Resourceful Controllers",
+        "id": 20,
         "docs": [
           {
             "title": "Laravel Resource Controllers",
@@ -313,6 +333,7 @@
       },
       {
         "topic": "File Uploads and Storage Folder Basics",
+        "id": 21,
         "docs": [
           {
             "title": "Filesystem: File Uploads",
@@ -338,6 +359,7 @@
       },
       {
         "topic": "Table Pagination",
+        "id": 22,
         "docs": [
           {
             "title": "Database Pagination",
@@ -353,6 +375,7 @@
     "data": [
       {
         "topic": "Routing Advanced",
+        "id": 1,
         "videos": [
           {
             "title": "Laravel: 8 Tips for Advanced Routing",
@@ -366,6 +389,7 @@
       },
       {
         "topic": "Route Model Binding",
+        "id": 2,
         "videos": [
           {
             "title": "Laravel Route Model Binding: All You Need To Know",
@@ -385,6 +409,7 @@
       },
       {
         "topic": "Route Redirect",
+        "id": 3,
         "docs": [
           {
             "title": "Redirect Routes",
@@ -394,6 +419,7 @@
       },
       {
         "topic": "Create Custom Middleware Class",
+        "id": 4,
         "docs": [
           {
             "title": "Defining Middleware",
@@ -403,6 +429,7 @@
       },
       {
         "topic": "Database Seeders and Factories",
+        "id": 5,
         "videos": [
           {
             "title": "Laravel Factories: Generate and Re-use Fake Records",
@@ -426,6 +453,7 @@
       },
       {
         "topic": "Eloquent Query Scopes",
+        "id": 6,
         "docs": [
           {
             "title": "Eloquent: Query Scopes",
@@ -441,6 +469,7 @@
       },
       {
         "topic": "Polymorphic relationships",
+        "id": 7,
         "docs": [
           {
             "title": "Polymorphic Relationships",
@@ -456,6 +485,7 @@
       },
       {
         "topic": "Eloquent Accessors and Mutators",
+        "id": 8,
         "docs": [
           {
             "title": "Accessors & Mutators",
@@ -465,6 +495,7 @@
       },
       {
         "topic": "Eloquent Collections",
+        "id": 9,
         "docs": [
           {
             "title": "Eloquent Collections",
@@ -478,6 +509,7 @@
       },
       {
         "topic": "Soft Deletes",
+        "id": 10,
         "docs": [
           {
             "title": "Soft Deleting",
@@ -487,6 +519,7 @@
       },
       {
         "topic": "Authorization: Roles/Permissions, Gates, Policies",
+        "id": 11,
         "docs": [
           {
             "title": "Authorization",
@@ -506,6 +539,7 @@
       },
       {
         "topic": "Authorization: Extra Packages - Spatie Permission, Bouncer, etc",
+        "id": 12,
         "docs": [
           {
             "title": "spatie/laravel-permission",
@@ -531,6 +565,7 @@
       },
       {
         "topic": "Authentication: Email Verification",
+        "id": 13,
         "docs": [
           {
             "title": "Email Verification",
@@ -546,6 +581,7 @@
       },
       {
         "topic": "File Uploads Advanced",
+        "id": 14,
         "courses": [
           {
             "title": "File Uploads in Laravel",
@@ -555,6 +591,7 @@
       },
       {
         "topic": "Drivers and Disks, Example of Amazon S3",
+        "id": 15,
         "docs": [
           {
             "title": "File Storage",
@@ -570,6 +607,7 @@
       },
       {
         "topic": "Extra Packages: Spatie Medialibrary, Intervention Image, etc",
+        "id": 16,
         "docs": [
           {
             "title": "spatie/laravel-medialibrary",
@@ -593,6 +631,7 @@
       },
       {
         "topic": "API Basics",
+        "id": 17,
         "docs": [
           {
             "title": "API Resource Routes",
@@ -612,6 +651,7 @@
       },
       {
         "topic": "API Routes and Controllers",
+        "id": 18,
         "docs": [
           {
             "title": "API Resource Routes",
@@ -631,6 +671,7 @@
       },
       {
         "topic": "Working with API Clients: Postman or Alternatives",
+        "id": 19,
         "docs": [
           {
             "title": "Postman API Client",
@@ -640,6 +681,7 @@
       },
       {
         "topic": "API Eloquent Resources",
+        "id": 20,
         "docs": [
           {
             "title": "Eloquent: API Resources",
@@ -655,6 +697,7 @@
       },
       {
         "topic": "API Auth with Sanctum",
+        "id": 21,
         "docs": [
           {
             "title": "Laravel Sanctum",
@@ -674,6 +717,7 @@
       },
       {
         "topic": "API Error Handling and Status Codes",
+        "id": 22,
         "docs": [
           { "title": "HTTP Status Codes", "url": "https://httpstatuses.com/" }
         ],
@@ -686,12 +730,14 @@
       },
       {
         "topic": "Log Files in Laravel",
+        "id": 23,
         "docs": [
           { "title": "Logging", "url": "https://laravel.com/docs/logging" }
         ]
       },
       {
         "topic": "Try-Catch and Laravel Exceptions",
+        "id": 24,
         "docs": [
           {
             "title": "Error Handling",
@@ -707,6 +753,7 @@
       },
       {
         "topic": "Local Debugging Tools: Debugbar, Telescope, Ray",
+        "id": 25,
         "docs": [
           {
             "title": "barryvdh/laravel-debugbar",
@@ -731,6 +778,7 @@
       },
       {
         "topic": "Customizing Error Pages and Messages",
+        "id": 26,
         "docs": [
           {
             "title": "Custom HTTP Error Pages",
@@ -750,6 +798,7 @@
       },
       {
         "topic": "(optional) Third Party Bug Trackers: Bugsnag, Flare, Sentry, Rollbar",
+        "id": 27,
         "videos": [
           {
             "title": "Laravel: 3 Ways to Send a Welcome Email (Controller vs Observer vs Events)",
@@ -759,6 +808,7 @@
       },
       {
         "topic": "Sending Email",
+        "id": 28,
         "videos": [
           {
             "title": "Laravel: 3 Ways to Send a Welcome Email (Controller vs Observer vs Events)",
@@ -768,6 +818,7 @@
       },
       {
         "topic": "Mailables and Mail Facade",
+        "id": 29,
         "docs": [
           {
             "title": "Mail & Mailables",
@@ -777,6 +828,7 @@
       },
       {
         "topic": "Configure Drivers/Services: Mailgun, Mailtrap, etc",
+        "id": 30,
         "docs": [
           {
             "title": "Mail: Drivers Prerequisites",
@@ -792,6 +844,7 @@
       },
       {
         "topic": "Notifications System: Email, SMS, Slack, etc.",
+        "id": 31,
         "docs": [
           {
             "title": "Notifications",
@@ -807,6 +860,7 @@
       },
       {
         "topic": "Automated Testing with PHPUnit",
+        "id": 32,
         "videos": [
           {
             "title": "PHPUnit in Laravel: Simple Example of Why/How to Test",
@@ -816,6 +870,7 @@
       },
       {
         "topic": "\"Smoke\" Tests to Check if Pages are Loading",
+        "id": 33,
         "docs": [
           {
             "title": "Testing: Getting Started",
@@ -841,6 +896,7 @@
       },
       {
         "topic": "Configure Testing Database and Test CRUD Operations",
+        "id": 34,
         "docs": [
           {
             "title": "Database Testing",
@@ -850,6 +906,7 @@
       },
       {
         "topic": "Git Version Control",
+        "id": 35,
         "docs": [{ "title": "Git", "url": "https://git-scm.com/" }],
         "videos": [
           {
@@ -864,6 +921,7 @@
       },
       {
         "topic": "Deployment on Live Servers",
+        "id": 36,
         "docs": [
           {
             "title": "Deployment",
@@ -895,6 +953,7 @@
     "data": [
       {
         "topic": "Route Caching",
+        "id": 1,
         "docs": [
           {
             "title": "Route Caching",
@@ -904,6 +963,7 @@
       },
       {
         "topic": "Rate Limiting",
+        "id": 2,
         "docs": [
           {
             "title": "Rate Limiting",
@@ -919,6 +979,7 @@
       },
       {
         "topic": "Invokable controllers",
+        "id": 3,
         "docs": [
           {
             "title": "Single Action Controllers",
@@ -928,6 +989,7 @@
       },
       {
         "topic": "Invokable controllers",
+        "id": 4,
         "docs": [
           {
             "title": "Single Action Controllers",
@@ -937,6 +999,7 @@
       },
       {
         "topic": "Model Observers",
+        "id": 5,
         "docs": [
           {
             "title": "Eloquent Observers",
@@ -956,6 +1019,7 @@
       },
       {
         "topic": "Raw Database Queries",
+        "id": 6,
         "docs": [
           {
             "title": "Query Builder: Raw Expressions",
@@ -965,6 +1029,7 @@
       },
       {
         "topic": "All Eloquent Features",
+        "id": 7,
         "docs": [
           {
             "title": "All About Eloquent",
@@ -996,6 +1061,7 @@
       },
       {
         "topic": "Custom Blade Directives",
+        "id": 8,
         "docs": [
           {
             "title": "Extending Blade",
@@ -1005,6 +1071,7 @@
       },
       {
         "topic": "Events and Listeners",
+        "id": 9,
         "docs": [
           {
             "title": "Events and Listeners",
@@ -1024,6 +1091,7 @@
       },
       {
         "topic": "Laravel HTTP Client and Guzzle",
+        "id": 10,
         "docs": [
           {
             "title": "HTTP Client",
@@ -1039,6 +1107,7 @@
       },
       {
         "topic": "Login with X: Laravel Socialite",
+        "id": 11,
         "docs": [
           {
             "title": "Laravel Socialite",
@@ -1048,6 +1117,7 @@
       },
       {
         "topic": "Creating Artisan Commands",
+        "id": 12,
         "docs": [
           {
             "title": "Writing Artisan Commands",
@@ -1063,6 +1133,7 @@
       },
       {
         "topic": "Task Scheduling",
+        "id": 13,
         "docs": [
           {
             "title": "Task Scheduling",
@@ -1078,6 +1149,7 @@
       },
       {
         "topic": "Caching",
+        "id": 14,
         "docs": [{ "title": "Cache", "url": "https://laravel.com/docs/cache" }],
         "videos": [
           {
@@ -1088,6 +1160,7 @@
       },
       {
         "topic": "Real-time: Broadcasting, Echo and Pusher",
+        "id": 15,
         "docs": [
           {
             "title": "Broadcasting",
@@ -1097,6 +1170,7 @@
       },
       {
         "topic": "Jobs and Queues",
+        "id": 16,
         "courses": [
           {
             "title": "Queues in Laravel",
@@ -1106,6 +1180,7 @@
       },
       {
         "topic": "Queueable Classes and Jobs",
+        "id": 17,
         "docs": [
           {
             "title": "Creating Jobs",
@@ -1133,6 +1208,7 @@
       },
       {
         "topic": "Job Dispatching, Batching and Chaining",
+        "id": 18,
         "docs": [
           {
             "title": "Dispatching Jobs",
@@ -1142,6 +1218,7 @@
       },
       {
         "topic": "Processing Failed Jobs",
+        "id": 19,
         "docs": [
           {
             "title": "Dealing with Failed Jobs",
@@ -1151,6 +1228,7 @@
       },
       {
         "topic": "Configuring Queues: Drivers, Redis, Supervisor",
+        "id": 20,
         "docs": [
           {
             "title": "Running the Queue Worker",
@@ -1164,6 +1242,7 @@
       },
       {
         "topic": "Laravel Horizon (optional, if you use Redis)",
+        "id": 21,
         "docs": [
           {
             "title": "Laravel Horizon",
@@ -1173,6 +1252,7 @@
       },
       {
         "topic": "Upload Files via API",
+        "id": 22,
         "articles": [
           {
             "title": "Laravel API: How to Upload File from Vue.js",
@@ -1182,6 +1262,7 @@
       },
       {
         "topic": "Generate API Documentation",
+        "id": 23,
         "videos": [
           {
             "title": "Scribe: New Package for Laravel API Documentation",
@@ -1197,6 +1278,7 @@
       },
       {
         "topic": "API Versioning",
+        "id": 24,
         "videos": [
           {
             "title": "Versioning your API: from V1 to V2 and Beyond [video from my course]",
@@ -1212,6 +1294,7 @@
       },
       {
         "topic": "API with OAuth and Laravel Passport",
+        "id": 25,
         "docs": [
           {
             "title": "Laravel Passport",
@@ -1227,6 +1310,7 @@
       },
       {
         "topic": "Only-API Projects with Front-end like Vue.js / React.js",
+        "id": 26,
         "courses": [
           {
             "title": "Vue.js 3 + Laravel 9 SPA: CRUD with Auth",
@@ -1240,6 +1324,7 @@
       },
       {
         "topic": "Only-API Projects with Mobile Apps",
+        "id": 27,
         "articles": [
           {
             "title": "Using Sanctum to authenticate a mobile app",
@@ -1255,6 +1340,7 @@
       },
       {
         "topic": "Laravel Jetstream (requires Livewire/Inertia knowledge)",
+        "id": 28,
         "docs": [
           {
             "title": "Laravel Jetstream",
@@ -1276,6 +1362,7 @@
       },
       {
         "topic": "Laravel Fortify",
+        "id": 29,
         "docs": [
           {
             "title": "Laravel Fortify",
@@ -1291,6 +1378,7 @@
       },
       {
         "topic": "Laravel Cashier with Stripe/Paddle",
+        "id": 30,
         "docs": [
           {
             "title": "Laravel Cashier (Stripe)",
@@ -1304,6 +1392,7 @@
       },
       {
         "topic": "Custom Payment Providers: PayPal, Mollie, etc",
+        "id": 31,
         "articles": [
           {
             "title": "Subscription billing with Laravel Cashier for Mollie",
@@ -1317,6 +1406,7 @@
       },
       {
         "topic": "TDD: Test-Driven Development",
+        "id": 32,
         "courses": [
           {
             "title": "Build A Laravel App With TDD",
@@ -1327,24 +1417,28 @@
       },
       {
         "topic": "Mocking",
+        "id": 33,
         "docs": [
           { "title": "Mocking", "url": "https://laravel.com/docs/mocking" }
         ]
       },
       {
         "topic": "(optional) Laravel Dusk",
+        "id": 34,
         "docs": [
           { "title": "Laravel Dusk", "url": "https://laravel.com/docs/dusk" }
         ]
       },
       {
         "topic": "Laravel Scout",
+        "id": 35,
         "docs": [
           { "title": "Laravel Scout", "url": "https://laravel.com/docs/scout" }
         ]
       },
       {
         "topic": "Drivers: ElasticSearch, Algolia or MeiliSearch",
+        "id": 36,
         "docs": [
           {
             "title": "Algolia: Scout Extended",
@@ -1364,6 +1458,7 @@
       },
       {
         "topic": "Contributing to Packages, making Pull Requests",
+        "id": 37,
         "videos": [
           {
             "title": "How to Contribute to Laravel Docs (or any open-source repository)",
@@ -1373,6 +1468,7 @@
       },
       {
         "topic": "Create Laravel Packages",
+        "id": 38,
         "docs": [
           {
             "title": "Package Development",
@@ -1394,6 +1490,7 @@
     "data": [
       {
         "topic": "PHP/Laravel Design Patterns",
+        "id": 1,
         "videos": [
           {
             "title": "Laravel Design Patterns - Bobby Bouwmann - Laracon EU 2018 Amsterdam",
@@ -1427,6 +1524,7 @@
       },
       {
         "topic": "Creational Design Patterns",
+        "id": 2,
         "articles": [
           {
             "title": "Design Patterns PHP: Creational",
@@ -1436,6 +1534,7 @@
       },
       {
         "topic": "Structural Design Patterns",
+        "id": 3,
         "articles": [
           {
             "title": "Design Patterns PHP: Structural",
@@ -1445,6 +1544,7 @@
       },
       {
         "topic": "Behavioral Design Patterns",
+        "id": 4,
         "articles": [
           {
             "title": "Design Patterns PHP: Behavioral",
@@ -1454,6 +1554,7 @@
       },
       {
         "topic": "SOLID Code",
+        "id": 5,
         "videos": [
           {
             "title": "Becoming a better developer by using the SOLID design principles by Katerina Trajchevska",
@@ -1483,6 +1584,7 @@
       },
       {
         "topic": "Scalable Code",
+        "id": 6,
         "videos": [
           {
             "title": "Enterprise Laravel by Matt Stauffer",
@@ -1504,6 +1606,7 @@
       },
       {
         "topic": "Maintainable Code",
+        "id": 7,
         "articles": [
           {
             "title": "How would you know if you've written readable and easily maintainable code? [forum thread]",
@@ -1527,6 +1630,7 @@
       },
       {
         "topic": "Best Practices and Standards",
+        "id": 8,
         "articles": [
           {
             "title": "Repository: alexeymezenin / laravel-best-practices",
@@ -1546,6 +1650,7 @@
       },
       {
         "topic": "Large Database Structures",
+        "id": 9,
         "courses": [
           {
             "title": "How to Structure Databases in Laravel",
@@ -1559,6 +1664,7 @@
       },
       {
         "topic": "NoSQL Solutions",
+        "id": 10,
         "docs": [
           {
             "title": "MongoDB and Laravel Integration",
@@ -1574,6 +1680,7 @@
       },
       {
         "topic": "Eloquent/SQL Query Optimization",
+        "id": 11,
         "articles": [
           {
             "title": "18 Tips to optimize laravel database queries",
@@ -1597,6 +1704,7 @@
       },
       {
         "topic": "Scaling to Multiple Databases",
+        "id": 12,
         "articles": [
           {
             "title": "Scaling Laravel App with Multiple Databases",
@@ -1610,6 +1718,7 @@
       },
       {
         "topic": "Stability and Zero-Downtime Deployments",
+        "id": 13,
         "docs": [
           {
             "title": "Envoyer - Zero Downtime PHP Deployment",
@@ -1623,6 +1732,7 @@
       },
       {
         "topic": "Performance Optimization and Caching",
+        "id": 14,
         "articles": [
           {
             "title": "The Ultimate Performance Checklist For Laravel Apps",
@@ -1642,6 +1752,7 @@
       },
       {
         "topic": "Writing Testable Code",
+        "id": 15,
         "articles": [
           {
             "title": "How to write testable code",
@@ -1655,6 +1766,7 @@
       },
       {
         "topic": "Continuous Integration and Continuous Delivery (CI/CD)",
+        "id": 16,
         "articles": [
           {
             "title": "How to create a CI/CD for a Laravel application using GitHub Actions",

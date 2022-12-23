@@ -1,8 +1,13 @@
 <script setup>
+import { useStorage } from '@vueuse/core';
 
-const props = defineProps(['level']);
+
+const props = defineProps(['level', 'storageKey']);
 
 const linksKeys = ['docs', 'videos', 'articles', 'courses', 'tests'];
+
+
+const progress = useStorage(props.storageKey, []);
 
 </script>
 
@@ -16,14 +21,23 @@ const linksKeys = ['docs', 'videos', 'articles', 'courses', 'tests'];
         <thead>
           <tr>
             <th class="border border-t-0 py-2 px-4"></th>
+            <th class="border border-t-0 py-2 px-4"></th>
             <th class="border border-t-0 py-2 px-4">Topic</th>
             <th class="border border-t-0 py-2 px-4">Resources</th>
           </tr>
         </thead>
         <tbody class="text-sm">
-          <tr v-for="topic in level.data" class="hover:bg-slate-100">
+          <tr v-for="(topic, i) in level.data" class="hover:bg-slate-100">
             <td class="border py-2 px-4">
-              <input type="checkbox" class="w-4 h-4 cursor-pointer accent-indigo-500">
+              {{ i + 1}}
+            </td>
+            <td class="border py-2 px-4">
+              <input 
+                type="checkbox"
+                :value="topic.id"
+                v-model="progress"
+                class="w-4 h-4 cursor-pointer accent-indigo-500"
+              />
             </td>
             <td class="border py-2 px-4">{{ topic.topic }}</td>
             <td class="border py-2 px-4">

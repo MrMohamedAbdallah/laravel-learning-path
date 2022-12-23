@@ -28,7 +28,7 @@ import data from '~/static/json/data.json';
       </p>
       <p class="text-sm text-slate-500">Your progress is saved locally on your machine.</p>
     </div>
-    <LevelCard :level="data.beginner" class="mb-10">
+    <LevelCard :level="data.beginner" storage-key="beginner" class="mb-10">
       <template #footer>
         <h3 class="text-xl font-bold">Beginner Demo-Project: Personal Blog</h3>
         <p class="text-sm my-1 text-slate-800">
@@ -43,7 +43,7 @@ import data from '~/static/json/data.json';
         </p>
       </template>
     </LevelCard>
-    <LevelCard :level="data.advancedBeginner" class="mb-10">
+    <LevelCard :level="data.advancedBeginner" storage-key="advancedBeginner" class="mb-10">
       <template #footer>
         <h3 class="text-xl font-bold">Advanced Beginner Demo-Project: Simple CRM</h3>
         <p class="text-sm my-1 text-slate-800">
@@ -58,7 +58,7 @@ import data from '~/static/json/data.json';
         </p>
       </template>
     </LevelCard>
-    <LevelCard :level="data.mid" class="mb-10"></LevelCard>
-    <LevelCard :level="data.senior" class="mb-10"></LevelCard>
+    <LevelCard :level="data.mid" storage-key="mid" class="mb-10"></LevelCard>
+    <LevelCard :level="data.senior" storage-key="senior" class="mb-10"></LevelCard>
   </main>
 </template>
