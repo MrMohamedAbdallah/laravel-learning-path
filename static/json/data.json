@@ -1,0 +1,1671 @@
+{
+  "beginner": {
+    "title": "Beginner",
+    "data": [
+      {
+        "topic": "Routing and Controllers: Basics",
+        "tests": [
+          {
+            "title": "Let's Test Your Laravel Routing Skills: Complete 12 Tasks",
+            "url": "https://www.youtube.com/watch?v=pENlD3izA3Q"
+          }
+        ]
+      },
+      {
+        "topic": "Callback Functions and Route::view()",
+        "docs": [
+          {
+            "title": "Basic Routing",
+            "url": "https://laravel.com/docs/routing#basic-routing"
+          },
+          {
+            "title": "View Routes",
+            "url": "https://laravel.com/docs/routing#basic-routing"
+          }
+        ]
+      },
+      {
+        "topic": "Routing to a Single Controller Method",
+        "docs": [
+          {
+            "title": "Basic Controllers with Routes",
+            "url": "https://laravel.com/docs/controllers#basic-controllers"
+          }
+        ]
+      },
+      {
+        "topic": "Route Naming",
+        "docs": [
+          {
+            "title": "Names Routes",
+            "url": "https://laravel.com/docs/routing#named-routes"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel: Why You Need Route Names?",
+            "url": "https://www.youtube.com/watch?v=7lalb6HtR1c"
+          }
+        ]
+      },
+      {
+        "topic": "Route Groups",
+        "docs": [
+          {
+            "title": "Route Groups",
+            "url": "https://laravel.com/docs/routing#route-groups"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel Route Grouping: Simple to Very Complex",
+            "url": "https://www.youtube.com/watch?v=I6kyfSmPhn8"
+          },
+          {
+            "title": "More videos",
+            "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path/blob/main/videos/route-groups.md"
+          }
+        ]
+      },
+      {
+        "topic": "Blade Basics",
+        "videos": [
+          {
+            "title": "9 Quick Tips about Laravel Blade",
+            "url": "https://www.youtube.com/watch?v=-Glz1InN68o"
+          }
+        ],
+        "tests": [
+          {
+            "title": "Let's Test Your Laravel Blade Skills: Complete 8 Tasks",
+            "url": "https://www.youtube.com/watch?v=P8s7UHuUhbg"
+          }
+        ]
+      },
+      {
+        "topic": "Displaying Variables in Blade",
+        "docs": [
+          {
+            "title": "Blade: Displaying Data",
+            "url": "https://laravel.com/docs/blade#displaying-data"
+          }
+        ]
+      },
+      {
+        "topic": "Blade If-Else and Loop Structures",
+        "docs": [
+          {
+            "title": "Blade: If-Statements",
+            "url": "https://laravel.com/docs/blade#if-statements"
+          },
+          {
+            "title": "Blade Loops",
+            "url": "https://laravel.com/docs/blade#loops"
+          }
+        ]
+      },
+      {
+        "topic": "Layout: @include, @extends, @section, @yield",
+        "docs": [
+          {
+            "title": "Blade: Layout Using Template Inheritance",
+            "url": "https://laravel.com/docs/blade#layouts-using-template-inheritance"
+          }
+        ]
+      },
+      {
+        "topic": "Blade Components",
+        "docs": [
+          {
+            "title": "Blade Components",
+            "url": "https://laravel.com/docs/blade#components"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel Blade Components: Two Examples - Laravel Breeze/UI",
+            "url": "https://www.youtube.com/watch?v=HybWBINeXMw"
+          }
+        ]
+      },
+      {
+        "topic": "Auth Basics",
+        "videos": [
+          {
+            "title": "8 Tips & Tricks about Laravel Auth",
+            "url": "https://www.youtube.com/watch?v=-dpp4CJS6Vk"
+          }
+        ],
+        "tests": [
+          {
+            "title": "Test Your Laravel Auth Skills: Complete 7 Tasks",
+            "url": "https://www.youtube.com/watch?v=v_3NmwtN_S0"
+          }
+        ]
+      },
+      {
+        "topic": "Starter Kits: Breeze (Tailwind) or Laravel UI (Bootstrap)",
+        "docs": [
+          {
+            "title": "Laravel Breeze Official Documentation",
+            "url": "https://laravel.com/docs/starter-kits#laravel-breeze"
+          },
+          {
+            "title": "Laravel UI: Official Github Page",
+            "url": "https://github.com/laravel/ui"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel 8 Auth: 5 \"Latest\" Things You Need to Know",
+            "url": "https://www.youtube.com/watch?v=L1FVdHdEm_8"
+          },
+          {
+            "title": "More videos",
+            "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path/blob/main/videos/auth-starter-kits.md"
+          }
+        ]
+      },
+      {
+        "topic": "Default Auth Model and Access its Fields from Anywhere",
+        "docs": [
+          {
+            "title": "Retrieving the Authenticated User",
+            "url": "https://laravel.com/docs/authentication#retrieving-the-authenticated-user"
+          }
+        ]
+      },
+      {
+        "topic": "Check Auth in Controller / Blade",
+        "docs": [
+          {
+            "title": "Determining If The Current User Is Authenticated",
+            "url": "https://laravel.com/docs/authentication#determining-if-the-current-user-is-authenticated"
+          },
+          {
+            "title": "Blade: Authentication Directives",
+            "url": "https://laravel.com/docs/blade#authentication-directives"
+          }
+        ]
+      },
+      {
+        "topic": "Auth Middleware",
+        "docs": [
+          {
+            "title": "Protecting Routes",
+            "url": "https://laravel.com/docs/authentication#protecting-routes"
+          }
+        ]
+      },
+      {
+        "topic": "Database Migrations",
+        "docs": [
+          {
+            "title": "Database Migrations",
+            "url": "https://laravel.com/docs/migrations"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel Migrations: Table Created but Foreign Key Failed?",
+            "url": "https://www.youtube.com/watch?v=DWzUBpsEEHY"
+          },
+          {
+            "title": "More videos",
+            "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path/blob/main/videos/database-migrations.md"
+          }
+        ],
+        "tests": [
+          {
+            "title": "Test Your Laravel Migrations Skills: Complete 10 Tasks",
+            "url": "https://www.youtube.com/watch?v=tPU1hNKI_lc"
+          }
+        ]
+      },
+      {
+        "topic": "Basic Eloquent Model and MVC: Controller -> Model -> View",
+        "docs": [
+          {
+            "title": "Eloquent: Getting Started",
+            "url": "https://laravel.com/docs/eloquent"
+          }
+        ],
+        "tests": [
+          {
+            "title": "Test Your Eloquent Basic Skills: 11 Tasks to Complete",
+            "url": "https://www.youtube.com/watch?v=AmvLs9sRSH8"
+          }
+        ]
+      },
+      {
+        "topic": "Eloquent Relationships: belongsTo / hasMany / belongsToMany",
+        "docs": [
+          {
+            "title": "Eloquent Relationships: One-to-One",
+            "url": "https://laravel.com/docs/eloquent-relationships#one-to-one"
+          },
+          {
+            "title": "Eloquent Relationships: One-to-Many",
+            "url": "https://laravel.com/docs/eloquent-relationships#one-to-many"
+          },
+          {
+            "title": "Eloquent Relationships: BelongsTo",
+            "url": "https://laravel.com/docs/eloquent-relationships#one-to-many-inverse"
+          },
+          {
+            "title": "Eloquent Relationships: Many-to-Many",
+            "url": "https://laravel.com/docs/eloquent-relationships#many-to-many"
+          }
+        ],
+        "videos": [
+          {
+            "title": "How to Safely Change DB Relations in Live Laravel Project?",
+            "url": "https://www.youtube.com/watch?v=nRmoywPJRdM"
+          }
+        ],
+        "tests": [
+          {
+            "title": "Test Your Eloquent Relationships Skills: 9 Tasks to Complete",
+            "url": "https://www.youtube.com/watch?v=ohj0Mc09DyE"
+          }
+        ]
+      },
+      {
+        "topic": "Eager Loading and N+1 Query Problem",
+        "docs": [
+          {
+            "title": "Relationships: Eager Loading",
+            "url": "https://laravel.com/docs/eloquent-relationships#eager-loading"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel N+1 Query Detector: Don't Forget Eager Loading",
+            "url": "https://www.youtube.com/watch?v=MbN7BIcUnPA"
+          }
+        ]
+      },
+      {
+        "topic": "Route Resource and Resourceful Controllers",
+        "docs": [
+          {
+            "title": "Laravel Resource Controllers",
+            "url": "https://laravel.com/docs/controllers#resource-controllers"
+          }
+        ],
+        "articles": [
+          {
+            "title": "Simple Laravel CRUD with Resource Controllers [digitalocean.com]",
+            "url": "https://www.digitalocean.com/community/tutorials/simple-laravel-crud-with-resource-controllers"
+          }
+        ],
+        "videos": [
+          {
+            "title": "New in Laravel 6.13: Format Validation Error Field Name",
+            "url": "https://www.youtube.com/watch?v=KD1SqLO58eE"
+          },
+          {
+            "title": "More videos",
+            "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path/blob/main/videos/forms-validation-requests.md"
+          }
+        ]
+      },
+      {
+        "topic": "File Uploads and Storage Folder Basics",
+        "docs": [
+          {
+            "title": "Filesystem: File Uploads",
+            "url": "https://laravel.com/docs/filesystem#file-uploads"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel: How to Upload File During User Registration",
+            "url": "https://www.youtube.com/watch?v=xyQT2pnv_4E"
+          },
+          {
+            "title": "More videos",
+            "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path/blob/main/videos/file-uploads-and-storage-folder-basics.md"
+          }
+        ],
+        "tests": [
+          {
+            "title": "Test Your Laravel File Upload Skills: Complete 7 Tasks",
+            "url": "https://www.youtube.com/watch?v=_SrQRnOx3q8"
+          }
+        ]
+      },
+      {
+        "topic": "Table Pagination",
+        "docs": [
+          {
+            "title": "Database Pagination",
+            "url": "https://laravel.com/docs/pagination"
+          }
+        ]
+      }
+    ]
+  },
+  "advanced-beginner": {
+    "title": "Advanced Beginner",
+    "data": [
+      {
+        "topic": "Routing Advanced",
+        "videos": [
+          {
+            "title": "Laravel: 8 Tips for Advanced Routing",
+            "url": "https://www.youtube.com/watch?v=_BIhuX8owTo"
+          },
+          {
+            "title": "More videos",
+            "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path/blob/main/videos/routing-advanced.md"
+          }
+        ]
+      },
+      {
+        "topic": "Route Model Binding",
+        "videos": [
+          {
+            "title": "Laravel Route Model Binding: All You Need To Know",
+            "url": "https://www.youtube.com/watch?v=6dEfxGLgevM"
+          },
+          {
+            "title": "More videos",
+            "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path/blob/main/videos/route-model-binding.md"
+          }
+        ],
+        "docs": [
+          {
+            "title": "Route Model Binding",
+            "url": "https://laravel.com/docs/routing#route-model-binding"
+          }
+        ]
+      },
+      {
+        "topic": "Route Redirect",
+        "docs": [
+          {
+            "title": "Redirect Routes",
+            "url": "https://laravel.com/docs/routing#redirect-routes"
+          }
+        ]
+      },
+      {
+        "topic": "Create Custom Middleware Class",
+        "docs": [
+          {
+            "title": "Defining Middleware",
+            "url": "https://laravel.com/docs/middleware#defining-middleware"
+          }
+        ]
+      },
+      {
+        "topic": "Database Seeders and Factories",
+        "videos": [
+          {
+            "title": "Laravel Factories: Generate and Re-use Fake Records",
+            "url": "https://www.youtube.com/watch?v=MHBDUJ51Pqs"
+          },
+          {
+            "title": "More videos",
+            "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path/blob/main/videos/database-seeders-and-factories.md"
+          }
+        ],
+        "docs": [
+          {
+            "title": "Database: Seeding",
+            "url": "https://laravel.com/docs/seeding"
+          },
+          {
+            "title": "Defining Model Factories",
+            "url": "https://laravel.com/docs/eloquent-factories#defining-model-factories"
+          }
+        ]
+      },
+      {
+        "topic": "Eloquent Query Scopes",
+        "docs": [
+          {
+            "title": "Eloquent: Query Scopes",
+            "url": "https://laravel.com/docs/eloquent#query-scopes"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Same Eloquent Where Condition? Refactor into Local Scopes",
+            "url": "https://www.youtube.com/watch?v=90xGUIuZsHE"
+          }
+        ]
+      },
+      {
+        "topic": "Polymorphic relationships",
+        "docs": [
+          {
+            "title": "Polymorphic Relationships",
+            "url": "https://laravel.com/docs/eloquent-relationships#polymorphic-relationships"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel.io Portal: Polymorphic Relations Example",
+            "url": "https://www.youtube.com/watch?v=EjJaNGW7vAg"
+          }
+        ]
+      },
+      {
+        "topic": "Eloquent Accessors and Mutators",
+        "docs": [
+          {
+            "title": "Accessors & Mutators",
+            "url": "https://laravel.com/docs/eloquent-mutators#accessors-and-mutators"
+          }
+        ]
+      },
+      {
+        "topic": "Eloquent Collections",
+        "docs": [
+          {
+            "title": "Eloquent Collections",
+            "url": "https://laravel.com/docs/eloquent-collections"
+          },
+          {
+            "title": "General Laravel Collections",
+            "url": "https://laravel.com/docs/collections"
+          }
+        ]
+      },
+      {
+        "topic": "Soft Deletes",
+        "docs": [
+          {
+            "title": "Soft Deleting",
+            "url": "https://laravel.com/docs/eloquent#soft-deleting"
+          }
+        ]
+      },
+      {
+        "topic": "Authorization: Roles/Permissions, Gates, Policies",
+        "docs": [
+          {
+            "title": "Authorization",
+            "url": "https://laravel.com/docs/authorization"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel Roles and Permissions: All CORE Things You Need To Know",
+            "url": "https://www.youtube.com/watch?v=kZOgH3-0Bko"
+          },
+          {
+            "title": "More videos",
+            "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path/blob/main/videos/authorization-roles-permissions-gates-policies.md"
+          }
+        ]
+      },
+      {
+        "topic": "Authorization: Extra Packages - Spatie Permission, Bouncer, etc",
+        "docs": [
+          {
+            "title": "spatie/laravel-permission",
+            "url": "https://github.com/spatie/laravel-permission"
+          },
+          {
+            "title": "JosephSilber/bouncer",
+            "url": "https://github.com/JosephSilber/bouncer"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Spatie Laravel Permission: Example Project Review",
+            "url": "https://www.youtube.com/watch?v=NgToi0uiMNQ"
+          }
+        ],
+        "articles": [
+          {
+            "title": "Two Best Laravel Packages to Manage Roles/Permissions",
+            "url": "https://laravel-news.com/two-best-roles-permissions-packages"
+          }
+        ]
+      },
+      {
+        "topic": "Authentication: Email Verification",
+        "docs": [
+          {
+            "title": "Email Verification",
+            "url": "https://laravel.com/docs/verification"
+          }
+        ],
+        "videos": [
+          {
+            "title": "How to Translate/Customize Laravel Auth Default Emails",
+            "url": "https://www.youtube.com/watch?v=c01k5Zo_CuI"
+          }
+        ]
+      },
+      {
+        "topic": "File Uploads Advanced",
+        "courses": [
+          {
+            "title": "File Uploads in Laravel",
+            "url": "https://laraveldaily.com/course/laravel-file-uploads?utm_source=github&utm_campaign=roadmap"
+          }
+        ]
+      },
+      {
+        "topic": "Drivers and Disks, Example of Amazon S3",
+        "docs": [
+          {
+            "title": "File Storage",
+            "url": "https://laravel.com/docs/filesystem"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel: How to Upload Files to Amazon S3",
+            "url": "https://www.youtube.com/watch?v=xZQM9q_QxMA"
+          }
+        ]
+      },
+      {
+        "topic": "Extra Packages: Spatie Medialibrary, Intervention Image, etc",
+        "docs": [
+          {
+            "title": "spatie/laravel-medialibrary",
+            "url": "https://github.com/spatie/laravel-medialibrary"
+          },
+          {
+            "title": "intervention/image",
+            "url": "https://github.com/Intervention/image"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Spatie Media Library Pro: Laravel File Uploads with Great UX [REVIEW]",
+            "url": "https://www.youtube.com/watch?v=oqW6vlJgXYE"
+          },
+          {
+            "title": "More videos",
+            "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path/blob/main/videos/file-upload-extra-packages.md"
+          }
+        ]
+      },
+      {
+        "topic": "API Basics",
+        "docs": [
+          {
+            "title": "API Resource Routes",
+            "url": "https://laravel.com/docs/controllers#api-resource-routes"
+          },
+          {
+            "title": "Default Route Files",
+            "url": "https://laravel.com/docs/routing#the-default-route-files"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Junior Code Review: Simple Laravel API - in 5 Different Ways",
+            "url": "https://www.youtube.com/watch?v=MxQJlFUYO30"
+          }
+        ]
+      },
+      {
+        "topic": "API Routes and Controllers",
+        "docs": [
+          {
+            "title": "API Resource Routes",
+            "url": "https://laravel.com/docs/controllers#api-resource-routes"
+          },
+          {
+            "title": "Default Route Files",
+            "url": "https://laravel.com/docs/routing#the-default-route-files"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Junior Code Review: Simple Laravel API - in 5 Different Ways",
+            "url": "https://www.youtube.com/watch?v=MxQJlFUYO30"
+          }
+        ]
+      },
+      {
+        "topic": "Working with API Clients: Postman or Alternatives",
+        "docs": [
+          {
+            "title": "Postman API Client",
+            "url": "https://www.postman.com/product/api-client/"
+          }
+        ]
+      },
+      {
+        "topic": "API Eloquent Resources",
+        "docs": [
+          {
+            "title": "Eloquent: API Resources",
+            "url": "https://laravel.com/docs/eloquent-resources"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel API Result: Add Fields with Map or Appends",
+            "url": "https://www.youtube.com/watch?v=FNU3gYgiEgQ"
+          }
+        ]
+      },
+      {
+        "topic": "API Auth with Sanctum",
+        "docs": [
+          {
+            "title": "Laravel Sanctum",
+            "url": "https://laravel.com/docs/sanctum"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel API Auth with Sanctum and API Tokens",
+            "url": "https://www.youtube.com/watch?v=gyWLxpYWxFQ"
+          },
+          {
+            "title": "More videos",
+            "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path/blob/main/videos/api-auth-with-sanctum.md"
+          }
+        ]
+      },
+      {
+        "topic": "API Error Handling and Status Codes",
+        "docs": [
+          { "title": "HTTP Status Codes", "url": "https://httpstatuses.com/" }
+        ],
+        "videos": [
+          {
+            "title": "Laravel API 404 Error: Customize Exception Message",
+            "url": "https://www.youtube.com/watch?v=SlBJrLnyoMk"
+          }
+        ]
+      },
+      {
+        "topic": "Log Files in Laravel",
+        "docs": [
+          { "title": "Logging", "url": "https://laravel.com/docs/logging" }
+        ]
+      },
+      {
+        "topic": "Try-Catch and Laravel Exceptions",
+        "docs": [
+          {
+            "title": "Error Handling",
+            "url": "https://laravel.com/docs/errors"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Exceptions in Laravel: Why/How to Use and Create Your Own",
+            "url": "https://www.youtube.com/watch?v=RTTXZVIL6tw"
+          }
+        ]
+      },
+      {
+        "topic": "Local Debugging Tools: Debugbar, Telescope, Ray",
+        "docs": [
+          {
+            "title": "barryvdh/laravel-debugbar",
+            "url": "https://github.com/barryvdh/laravel-debugbar"
+          },
+          {
+            "title": "Laravel Telescope",
+            "url": "https://laravel.com/docs/telescope"
+          },
+          { "title": "Spatie Ray (Premium Tool)", "url": "https://myray.app/" }
+        ],
+        "videos": [
+          {
+            "title": "Debug Eloquent Queries from API: Laravel Telescope",
+            "url": "https://www.youtube.com/watch?v=SR3RzIfeozI"
+          },
+          {
+            "title": "Spatie Ray: Laravel Debugging with Pleasure",
+            "url": "https://www.youtube.com/watch?v=n4pMxyAXeqY"
+          }
+        ]
+      },
+      {
+        "topic": "Customizing Error Pages and Messages",
+        "docs": [
+          {
+            "title": "Custom HTTP Error Pages",
+            "url": "https://laravel.com/docs/errors#custom-http-error-pages"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel Error Pages: Change Text or Customize Layouts",
+            "url": "https://www.youtube.com/watch?v=iMAFUi6Z57k"
+          },
+          {
+            "title": "New in Laravel 8.26: Override 404 Page with Route Missing",
+            "url": "https://www.youtube.com/watch?v=nvDCQDkcjN0"
+          }
+        ]
+      },
+      {
+        "topic": "(optional) Third Party Bug Trackers: Bugsnag, Flare, Sentry, Rollbar",
+        "videos": [
+          {
+            "title": "Laravel: 3 Ways to Send a Welcome Email (Controller vs Observer vs Events)",
+            "url": "https://www.youtube.com/watch?v=ZWzH6SOzjhI"
+          }
+        ]
+      },
+      {
+        "topic": "Sending Email",
+        "videos": [
+          {
+            "title": "Laravel: 3 Ways to Send a Welcome Email (Controller vs Observer vs Events)",
+            "url": "https://www.youtube.com/watch?v=ZWzH6SOzjhI"
+          }
+        ]
+      },
+      {
+        "topic": "Mailables and Mail Facade",
+        "docs": [
+          {
+            "title": "Mail & Mailables",
+            "url": "https://laravel.com/docs/mail"
+          }
+        ]
+      },
+      {
+        "topic": "Configure Drivers/Services: Mailgun, Mailtrap, etc",
+        "docs": [
+          {
+            "title": "Mail: Drivers Prerequisites",
+            "url": "https://laravel.com/docs/mail#driver-prerequisites"
+          }
+        ],
+        "articles": [
+          {
+            "title": "How to Send Email From Laravel, and Why We Need 3rd Party Providers For It",
+            "url": "https://laraveldaily.com/how-to-send-email-from-laravel-and-why-we-need-3rd-party-providers-for-it/"
+          }
+        ]
+      },
+      {
+        "topic": "Notifications System: Email, SMS, Slack, etc.",
+        "docs": [
+          {
+            "title": "Notifications",
+            "url": "https://laravel.com/docs/notifications"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel Notifications: \"Database\" Driver - Demo Project",
+            "url": "https://www.youtube.com/watch?v=5DREuAvFnps"
+          }
+        ]
+      },
+      {
+        "topic": "Automated Testing with PHPUnit",
+        "videos": [
+          {
+            "title": "PHPUnit in Laravel: Simple Example of Why/How to Test",
+            "url": "https://www.youtube.com/watch?v=DRhhfy2sG1E"
+          }
+        ]
+      },
+      {
+        "topic": "\"Smoke\" Tests to Check if Pages are Loading",
+        "docs": [
+          {
+            "title": "Testing: Getting Started",
+            "url": "https://laravel.com/docs/testing"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel TDD in \"Live\" Mode: Checkout Code Review",
+            "url": "https://www.youtube.com/watch?v=5XywKLjCD3g"
+          }
+        ],
+        "courses": [
+          {
+            "title": "Testing Laravel: Course by Spatie",
+            "url": "https://spatie.be/products/testing-laravel"
+          },
+          {
+            "title": "My Course: Laravel Testing For Beginners: PHPUnit, Pest, TDD",
+            "url": "https://laraveldaily.com/course/laravel-testing?utm_source=github&utm_campaign=roadmap"
+          }
+        ]
+      },
+      {
+        "topic": "Configure Testing Database and Test CRUD Operations",
+        "docs": [
+          {
+            "title": "Database Testing",
+            "url": "https://laravel.com/docs/database-testing"
+          }
+        ]
+      },
+      {
+        "topic": "Git Version Control",
+        "docs": [{ "title": "Git", "url": "https://git-scm.com/" }],
+        "videos": [
+          {
+            "title": "Git in Laravel. Part 1 - Branches: Main, Develop and Feature",
+            "url": "https://www.youtube.com/watch?v=AmScEC-_72I"
+          },
+          {
+            "title": "More videos",
+            "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path/blob/main/videos/git-version-control.md"
+          }
+        ]
+      },
+      {
+        "topic": "Deployment on Live Servers",
+        "docs": [
+          {
+            "title": "Deployment",
+            "url": "https://laravel.com/docs/deployment"
+          }
+        ],
+        "videos": [
+          {
+            "title": "How we Deploy Laravel: Branches, Staging Servers, Forge and Envoyer",
+            "url": "https://www.youtube.com/watch?v=8DVuVftFZcQ"
+          }
+        ],
+        "articles": [
+          {
+            "title": "How to Deploy Laravel Projects to Live Server: The Ultimate Guide",
+            "url": "https://laraveldaily.com/how-to-deploy-laravel-projects-to-live-server-the-ultimate-guide/"
+          },
+          {
+            "title": "What Server is Needed to Deploy Laravel Projects",
+            "url": "https://laraveldaily.com/what-server-is-needed-to-deploy-laravel-projects/"
+          }
+        ]
+      }
+    ]
+  },
+  "mid": {
+    "title": "Mid Level",
+    "data": [
+      {
+        "topic": "Route Caching",
+        "docs": [
+          {
+            "title": "Route Caching",
+            "url": "https://laravel.com/docs/routing#route-caching"
+          }
+        ]
+      },
+      {
+        "topic": "Rate Limiting",
+        "docs": [
+          {
+            "title": "Rate Limiting",
+            "url": "https://laravel.com/docs/routing#rate-limiting"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel: Create Public API with Cache and Rate Limits",
+            "url": "https://www.youtube.com/watch?v=vrLcCxWlxOk"
+          }
+        ]
+      },
+      {
+        "topic": "Invokable controllers",
+        "docs": [
+          {
+            "title": "Single Action Controllers",
+            "url": "https://laravel.com/docs/controllers#single-action-controllers"
+          }
+        ]
+      },
+      {
+        "topic": "Invokable controllers",
+        "docs": [
+          {
+            "title": "Single Action Controllers",
+            "url": "https://laravel.com/docs/controllers#single-action-controllers"
+          }
+        ]
+      },
+      {
+        "topic": "Model Observers",
+        "docs": [
+          {
+            "title": "Eloquent Observers",
+            "url": "https://laravel.com/docs/eloquent#observers"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel Model: Check if Any Field Was Changed",
+            "url": "https://www.youtube.com/watch?v=_xluet13xxE"
+          },
+          {
+            "title": "Eloquent Observers or Events Listeners? Which is Better?",
+            "url": "https://www.youtube.com/watch?v=DvoaU6cQQHM"
+          }
+        ]
+      },
+      {
+        "topic": "Raw Database Queries",
+        "docs": [
+          {
+            "title": "Query Builder: Raw Expressions",
+            "url": "https://laravel.com/docs/queries#raw-expressions"
+          }
+        ]
+      },
+      {
+        "topic": "All Eloquent Features",
+        "docs": [
+          {
+            "title": "All About Eloquent",
+            "url": "https://laravel.com/docs/eloquent"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel Collections: 5 Methods with Real Examples",
+            "url": "https://www.youtube.com/watch?v=isAz2GduuA0"
+          },
+          {
+            "title": "More videos",
+            "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path/blob/main/videos/all-eloquent-features.md"
+          }
+        ],
+        "articles": [
+          {
+            "title": "20 Laravel Eloquent Tips and Tricks",
+            "url": "https://laravel-news.com/eloquent-tips-tricks"
+          }
+        ],
+        "courses": [
+          {
+            "title": "Eloquent: Expert Level",
+            "url": "https://laraveldaily.teachable.com/p/laravel-eloquent-expert-level?utm_source=github&utm_campaign=roadmap"
+          }
+        ]
+      },
+      {
+        "topic": "Custom Blade Directives",
+        "docs": [
+          {
+            "title": "Extending Blade",
+            "url": "https://laravel.com/docs/blade#extending-blade"
+          }
+        ]
+      },
+      {
+        "topic": "Events and Listeners",
+        "docs": [
+          {
+            "title": "Events and Listeners",
+            "url": "https://laravel.com/docs/events"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel: 3 Ways to Send a Welcome Email (Controller vs Observer vs Events)",
+            "url": "https://www.youtube.com/watch?v=ZWzH6SOzjhI"
+          },
+          {
+            "title": "Laravel: Why Observers and Event Listeners are \"Risky\"",
+            "url": "https://www.youtube.com/watch?v=A3bmLo77e5M"
+          }
+        ]
+      },
+      {
+        "topic": "Laravel HTTP Client and Guzzle",
+        "docs": [
+          {
+            "title": "HTTP Client",
+            "url": "https://laravel.com/docs/http-client"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel and External APIs: Get Data with HTTP Client",
+            "url": "https://www.youtube.com/watch?v=oEDDZsmMLc0"
+          }
+        ]
+      },
+      {
+        "topic": "Login with X: Laravel Socialite",
+        "docs": [
+          {
+            "title": "Laravel Socialite",
+            "url": "https://laravel.com/docs/socialite"
+          }
+        ]
+      },
+      {
+        "topic": "Creating Artisan Commands",
+        "docs": [
+          {
+            "title": "Writing Artisan Commands",
+            "url": "https://laravel.com/docs/artisan#writing-commands"
+          }
+        ],
+        "videos": [
+          {
+            "title": "How to Create Artisan Commands in Laravel",
+            "url": "https://www.youtube.com/watch?v=-r3WnYy7g48"
+          }
+        ]
+      },
+      {
+        "topic": "Task Scheduling",
+        "docs": [
+          {
+            "title": "Task Scheduling",
+            "url": "https://laravel.com/docs/scheduling"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel Task Scheduling: Run Artisan Command Hourly",
+            "url": "https://www.youtube.com/watch?v=r-KrsQ0dN80"
+          }
+        ]
+      },
+      {
+        "topic": "Caching",
+        "docs": [{ "title": "Cache", "url": "https://laravel.com/docs/cache" }],
+        "videos": [
+          {
+            "title": "Cache Eloquent Query Results to Load Pages Instantly",
+            "url": "https://www.youtube.com/watch?v=JhKngeE0XJA"
+          }
+        ]
+      },
+      {
+        "topic": "Real-time: Broadcasting, Echo and Pusher",
+        "docs": [
+          {
+            "title": "Broadcasting",
+            "url": "https://laravel.com/docs/broadcasting"
+          }
+        ]
+      },
+      {
+        "topic": "Jobs and Queues",
+        "courses": [
+          {
+            "title": "Queues in Laravel",
+            "url": "https://laraveldaily.com/course/laravel-queues?utm_source=github&utm_campaign=roadmap"
+          }
+        ]
+      },
+      {
+        "topic": "Queueable Classes and Jobs",
+        "docs": [
+          {
+            "title": "Creating Jobs",
+            "url": "https://laravel.com/docs/queues#creating-jobs"
+          },
+          {
+            "title": "Queueing Notifications",
+            "url": "https://laravel.com/docs/notifications#queueing-notifications"
+          },
+          {
+            "title": "Queued Event Listeners",
+            "url": "https://laravel.com/docs/events#queued-event-listeners"
+          },
+          {
+            "title": "Queueing Mail",
+            "url": "https://laravel.com/docs/mail#queueing-mail"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel Queues 101: Example with Sending Emails",
+            "url": "https://www.youtube.com/watch?v=rVx8xKisbr8"
+          }
+        ]
+      },
+      {
+        "topic": "Job Dispatching, Batching and Chaining",
+        "docs": [
+          {
+            "title": "Dispatching Jobs",
+            "url": "https://laravel.com/docs/queues#dispatching-jobs"
+          }
+        ]
+      },
+      {
+        "topic": "Processing Failed Jobs",
+        "docs": [
+          {
+            "title": "Dealing with Failed Jobs",
+            "url": "https://laravel.com/docs/queues#dealing-with-failed-jobs"
+          }
+        ]
+      },
+      {
+        "topic": "Configuring Queues: Drivers, Redis, Supervisor",
+        "docs": [
+          {
+            "title": "Running the Queue Worker",
+            "url": "https://laravel.com/docs/queues#running-the-queue-worker"
+          },
+          {
+            "title": "Configuring Supervisor",
+            "url": "https://laravel.com/docs/queues#supervisor-configuration"
+          }
+        ]
+      },
+      {
+        "topic": "Laravel Horizon (optional, if you use Redis)",
+        "docs": [
+          {
+            "title": "Laravel Horizon",
+            "url": "https://laravel.com/docs/horizon"
+          }
+        ]
+      },
+      {
+        "topic": "Upload Files via API",
+        "articles": [
+          {
+            "title": "Laravel API: How to Upload File from Vue.js",
+            "url": "https://blog.quickadminpanel.com/laravel-api-how-to-upload-file-from-vue-js/"
+          }
+        ]
+      },
+      {
+        "topic": "Generate API Documentation",
+        "videos": [
+          {
+            "title": "Scribe: New Package for Laravel API Documentation",
+            "url": "https://www.youtube.com/watch?v=PjwGI8c2IfA"
+          }
+        ],
+        "articles": [
+          {
+            "title": "Laravel API Documentation with OpenAPI/Swagger",
+            "url": "https://blog.quickadminpanel.com/laravel-api-documentation-with-openapiswagger/"
+          }
+        ]
+      },
+      {
+        "topic": "API Versioning",
+        "videos": [
+          {
+            "title": "Versioning your API: from V1 to V2 and Beyond [video from my course]",
+            "url": "https://laraveldaily.com/lesson/laravel-api/versioning-v1-v2?utm_source=github&utm_campaign=roadmap"
+          }
+        ],
+        "articles": [
+          {
+            "title": "Versioning your REST API with Laravel",
+            "url": "https://codimth.com/blog/web/laravel/versioning-your-rest-api-laravel"
+          }
+        ]
+      },
+      {
+        "topic": "API with OAuth and Laravel Passport",
+        "docs": [
+          {
+            "title": "Laravel Passport",
+            "url": "https://laravel.com/docs/passport"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel API Auth Demo: Passport, oAuth and Sanctum",
+            "url": "https://www.youtube.com/watch?v=8myQdPL8I1s"
+          }
+        ]
+      },
+      {
+        "topic": "Only-API Projects with Front-end like Vue.js / React.js",
+        "courses": [
+          {
+            "title": "Vue.js 3 + Laravel 9 SPA: CRUD with Auth",
+            "url": "https://laraveldaily.com/course/vue-laravel-spa?utm_source=github&utm_campaign=roadmap"
+          },
+          {
+            "title": "React.js + Laravel: SPA CRUD with Auth",
+            "url": "https://laraveldaily.com/course/react-laravel-spa?utm_source=github&utm_campaign=roadmap"
+          }
+        ]
+      },
+      {
+        "topic": "Only-API Projects with Mobile Apps",
+        "articles": [
+          {
+            "title": "Using Sanctum to authenticate a mobile app",
+            "url": "https://laravel-news.com/using-sanctum-to-authenticate-a-mobile-app"
+          }
+        ],
+        "courses": [
+          {
+            "title": "Flutter Mobile App with Laravel API",
+            "url": "https://laraveldaily.com/course/flutter-laravel?utm_source=github&utm_campaign=roadmap"
+          }
+        ]
+      },
+      {
+        "topic": "Laravel Jetstream (requires Livewire/Inertia knowledge)",
+        "docs": [
+          {
+            "title": "Laravel Jetstream",
+            "url": "https://jetstream.laravel.com/"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel Jetstream: How it Works and Example How to Customize",
+            "url": "https://www.youtube.com/watch?v=d8YgWApHMfA"
+          }
+        ],
+        "courses": [
+          {
+            "title": "Laravel Jetstream+Livewire: Real Mini-Project",
+            "url": "https://laraveldaily.teachable.com/p/laravel-jetstream-livewire-project?utm_source=github&utm_campaign=roadmap"
+          }
+        ]
+      },
+      {
+        "topic": "Laravel Fortify",
+        "docs": [
+          {
+            "title": "Laravel Fortify",
+            "url": "https://laravel.com/docs/fortify"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Laravel Fortify: Four Auth Things to Customize",
+            "url": "https://www.youtube.com/watch?v=Vr4LJU3kw1g"
+          }
+        ]
+      },
+      {
+        "topic": "Laravel Cashier with Stripe/Paddle",
+        "docs": [
+          {
+            "title": "Laravel Cashier (Stripe)",
+            "url": "https://laravel.com/docs/billing"
+          },
+          {
+            "title": "Laravel Cashier (Paddle)",
+            "url": "https://laravel.com/docs/cashier-paddle"
+          }
+        ]
+      },
+      {
+        "topic": "Custom Payment Providers: PayPal, Mollie, etc",
+        "articles": [
+          {
+            "title": "Subscription billing with Laravel Cashier for Mollie",
+            "url": "https://github.com/laravel/cashier-mollie"
+          },
+          {
+            "title": "How To Integrate Paypal Payment Gateway In Laravel",
+            "url": "https://websolutionstuff.com/post/how-to-integrate-paypal-payment-gateway-in-laravel"
+          }
+        ]
+      },
+      {
+        "topic": "TDD: Test-Driven Development",
+        "courses": [
+          {
+            "title": "Build A Laravel App With TDD",
+            "url": "https://laracasts.com/series/build-a-laravel-app-with-tdd"
+          },
+          { "title": "TDD With Laravel", "url": "https://tddwithlaravel.com/" }
+        ]
+      },
+      {
+        "topic": "Mocking",
+        "docs": [
+          { "title": "Mocking", "url": "https://laravel.com/docs/mocking" }
+        ]
+      },
+      {
+        "topic": "(optional) Laravel Dusk",
+        "docs": [
+          { "title": "Laravel Dusk", "url": "https://laravel.com/docs/dusk" }
+        ]
+      },
+      {
+        "topic": "Laravel Scout",
+        "docs": [
+          { "title": "Laravel Scout", "url": "https://laravel.com/docs/scout" }
+        ]
+      },
+      {
+        "topic": "Drivers: ElasticSearch, Algolia or MeiliSearch",
+        "docs": [
+          {
+            "title": "Algolia: Scout Extended",
+            "url": "https://www.algolia.com/doc/framework-integration/laravel/getting-started/introduction-to-scout-extended/?client=php"
+          }
+        ],
+        "articles": [
+          {
+            "title": "ElasticSearch Driver for Laravel Scout",
+            "url": "https://laravel-news.com/explorer"
+          },
+          {
+            "title": "Full-Text Search with MeiliSearch and Laravel Scout",
+            "url": "https://tighten.co/blog/full-text-search-with-meilisearch-and-scout/"
+          }
+        ]
+      },
+      {
+        "topic": "Contributing to Packages, making Pull Requests",
+        "videos": [
+          {
+            "title": "How to Contribute to Laravel Docs (or any open-source repository)",
+            "url": "https://www.youtube.com/watch?v=vEcT6JIFji0"
+          }
+        ]
+      },
+      {
+        "topic": "Create Laravel Packages",
+        "docs": [
+          {
+            "title": "Package Development",
+            "url": "https://laravel.com/docs/packages"
+          }
+        ],
+        "courses": [
+          {
+            "title": "Laravel Package Development",
+            "url": "https://laravelpackage.com/"
+          }
+        ]
+      }
+    ]
+  },
+  "senior": {
+    "title": "Senior Level",
+    "data": [
+      {
+        "topic": "PHP/Laravel Design Patterns",
+        "videos": [
+          {
+            "title": "Laravel Design Patterns - Bobby Bouwmann - Laracon EU 2018 Amsterdam",
+            "url": "https://www.youtube.com/watch?v=qpo5KG0vIyE"
+          },
+          {
+            "title": "Colin Decarlo - Design Patterns with Laravel [Laracon 2018]",
+            "url": "https://www.youtube.com/watch?v=e4ugSgGaCQ0"
+          },
+          {
+            "title": "Matt Stauffer - Patterns That Pay Off [Laracon 2018]",
+            "url": "https://www.youtube.com/watch?v=enTb2E4vEos"
+          }
+        ],
+        "articles": [
+          {
+            "title": "Design Patterns for Humans",
+            "url": "https://github.com/kamranahmedse/design-patterns-for-humans"
+          }
+        ],
+        "courses": [
+          {
+            "title": "Laracasts: Design Patterns in PHP",
+            "url": "https://laracasts.com/series/design-patterns-in-php"
+          },
+          {
+            "title": "Design Patterns in PHP",
+            "url": "https://refactoring.guru/design-patterns/php"
+          }
+        ]
+      },
+      {
+        "topic": "Creational Design Patterns",
+        "articles": [
+          {
+            "title": "Design Patterns PHP: Creational",
+            "url": "https://designpatternsphp.readthedocs.io/en/latest/Creational/README.html"
+          }
+        ]
+      },
+      {
+        "topic": "Structural Design Patterns",
+        "articles": [
+          {
+            "title": "Design Patterns PHP: Structural",
+            "url": "https://designpatternsphp.readthedocs.io/en/latest/Structural/README.html"
+          }
+        ]
+      },
+      {
+        "topic": "Behavioral Design Patterns",
+        "articles": [
+          {
+            "title": "Design Patterns PHP: Behavioral",
+            "url": "https://designpatternsphp.readthedocs.io/en/latest/Behavioral/README.html"
+          }
+        ]
+      },
+      {
+        "topic": "SOLID Code",
+        "videos": [
+          {
+            "title": "Becoming a better developer by using the SOLID design principles by Katerina Trajchevska",
+            "url": "https://www.youtube.com/watch?v=rtmFCcjEgEw"
+          },
+          {
+            "title": "PHP Solid Principles [Playlist]",
+            "url": "https://www.youtube.com/watch?v=ARxZV8OZ8Cg&list=PLNuh5_K9dfQ3jMU-2C2jYRGe2iXJkpCZj"
+          }
+        ],
+        "articles": [
+          {
+            "title": "Writing Maintainable Code: SOLID Principles Explained in PHP (Laravel)",
+            "url": "https://geekflare.com/php-solid-principles/"
+          }
+        ],
+        "courses": [
+          {
+            "title": "SOLID Code in Laravel",
+            "url": "https://laraveldaily.com/course/solid-laravel?utm_source=github&utm_campaign=roadmap"
+          },
+          {
+            "title": "Laracasts: SOLID Principles in PHP",
+            "url": "https://laracasts.com/series/solid-principles-in-php"
+          }
+        ]
+      },
+      {
+        "topic": "Scalable Code",
+        "videos": [
+          {
+            "title": "Enterprise Laravel by Matt Stauffer",
+            "url": "https://enterpriselaravel.com/"
+          }
+        ],
+        "articles": [
+          {
+            "title": "What the hell is scalable code anyway?",
+            "url": "https://blog.sarasarya.com/what-the-hell-is-scalable-code-anyway-f6626ad78227"
+          }
+        ],
+        "courses": [
+          {
+            "title": "Scaling Laravel",
+            "url": "https://courses.serversforhackers.com/scaling-laravel"
+          }
+        ]
+      },
+      {
+        "topic": "Maintainable Code",
+        "articles": [
+          {
+            "title": "How would you know if you've written readable and easily maintainable code? [forum thread]",
+            "url": "https://softwareengineering.stackexchange.com/questions/141005/how-would-you-know-if-youve-written-readable-and-easily-maintainable-code"
+          },
+          {
+            "title": "Crafting maintainable Laravel applications",
+            "url": "https://jasonmccreary.me/articles/crafting-maintainable-laravel-applications/"
+          },
+          {
+            "title": "7 Golden Rules of Clean, Simple and Maintainable Code",
+            "url": "https://shhetri.github.io/clean-code/#/"
+          }
+        ],
+        "courses": [
+          {
+            "title": "10+ Laravel Refactoring Examples",
+            "url": "https://laraveldaily.com/course/laravel-refactoring?utm_source=github&utm_campaign=roadmap"
+          }
+        ]
+      },
+      {
+        "topic": "Best Practices and Standards",
+        "articles": [
+          {
+            "title": "Repository: alexeymezenin / laravel-best-practices",
+            "url": "https://github.com/alexeymezenin/laravel-best-practices"
+          },
+          {
+            "title": "Reddit: What are your Laravel best practices?",
+            "url": "https://www.reddit.com/r/laravel/comments/f34t86/what_are_your_laravel_best_practices/"
+          }
+        ],
+        "courses": [
+          {
+            "title": "PHP: The Right Way",
+            "url": "https://phptherightway.com/"
+          }
+        ]
+      },
+      {
+        "topic": "Large Database Structures",
+        "courses": [
+          {
+            "title": "How to Structure Databases in Laravel",
+            "url": "https://laraveldaily.com/course/laravel-database-structure?utm_source=github&utm_campaign=roadmap"
+          },
+          {
+            "title": "GraphQL in Laravel From Scratch",
+            "url": "https://laraveldaily.com/course/graphql-laravel?utm_source=github&utm_campaign=roadmap"
+          }
+        ]
+      },
+      {
+        "topic": "NoSQL Solutions",
+        "docs": [
+          {
+            "title": "MongoDB and Laravel Integration",
+            "url": "https://www.mongodb.com/compatibility/mongodb-laravel-intergration"
+          }
+        ],
+        "videos": [
+          {
+            "title": "MongoDB + Laravel = Love — When to use NoSQL",
+            "url": "https://faun.pub/when-to-use-nosql-getting-started-with-mongodb-in-laravel-f5376ceaf545"
+          }
+        ]
+      },
+      {
+        "topic": "Eloquent/SQL Query Optimization",
+        "articles": [
+          {
+            "title": "18 Tips to optimize laravel database queries",
+            "url": "https://dudi.dev/optimize-laravel-database-queries/"
+          },
+          {
+            "title": "Optimizing Laravel Part 2: Improving Query Performance with Database Indexing",
+            "url": "https://deliciousbrains.com/optimizing-laravel-database-indexing-performance/"
+          }
+        ],
+        "courses": [
+          {
+            "title": "Better Eloquent Performance",
+            "url": "https://laraveldaily.com/course/eloquent-performance?utm_source=github&utm_campaign=roadmap"
+          },
+          {
+            "title": "Eloquent Performance Patterns",
+            "url": "https://eloquent-course.reinink.ca/"
+          }
+        ]
+      },
+      {
+        "topic": "Scaling to Multiple Databases",
+        "articles": [
+          {
+            "title": "Scaling Laravel App with Multiple Databases",
+            "url": "https://devdojo.com/bobbyiliev/scaling-laravel-app-with-multiple-databases"
+          },
+          {
+            "title": "Multiple DB Connections in Laravel",
+            "url": "https://fideloper.com/laravel-multiple-database-connections"
+          }
+        ]
+      },
+      {
+        "topic": "Stability and Zero-Downtime Deployments",
+        "docs": [
+          {
+            "title": "Envoyer - Zero Downtime PHP Deployment",
+            "url": "https://envoyer.io/"
+          },
+          {
+            "title": "Envoyer - Zero Downtime PHP Deployment",
+            "url": "https://envoyer.io/"
+          }
+        ]
+      },
+      {
+        "topic": "Performance Optimization and Caching",
+        "articles": [
+          {
+            "title": "The Ultimate Performance Checklist For Laravel Apps",
+            "url": "https://laravel-news.com/performance-checklist"
+          },
+          {
+            "title": "How to Optimize PHP Laravel Web Application for High Performance?",
+            "url": "https://geekflare.com/laravel-optimization/"
+          }
+        ],
+        "courses": [
+          {
+            "title": "Performant Laravel",
+            "url": "https://serversforhackers.com/laravel-perf"
+          }
+        ]
+      },
+      {
+        "topic": "Writing Testable Code",
+        "articles": [
+          {
+            "title": "How to write testable code",
+            "url": "https://dev.to/ddarrko/how-to-write-more-testable-code-oi7"
+          },
+          {
+            "title": "Refactoring towards testability",
+            "url": "https://madewithlove.com/blog/software-engineering/refactoring-untestable-code-towards-testability/"
+          }
+        ]
+      },
+      {
+        "topic": "Continuous Integration and Continuous Delivery (CI/CD)",
+        "articles": [
+          {
+            "title": "How to create a CI/CD for a Laravel application using GitHub Actions",
+            "url": "https://blog.logrocket.com/how-to-create-a-ci-cd-for-a-laravel-application-using-github-actions/"
+          },
+          {
+            "title": "Configure Laravel 8 for CI/CD with Jenkins and GitHub — Part 1",
+            "url": "https://faun.pub/configure-laravel-8-for-ci-cd-with-jenkins-and-github-part-1-58b9be304292"
+          },
+          {
+            "title": "Build, Test, and Deploy Your Laravel Application With GitHub Actions",
+            "url": "https://www.twilio.com/blog/build-test-deploy-laravel-application-github-actions"
+          }
+        ]
+      }
+    ]
+  }
+}
