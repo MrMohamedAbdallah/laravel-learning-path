@@ -20,6 +20,7 @@ const completedPercentageDisplay = computed(() => Math.floor(completedPercentage
 
 <template>
   <main class="max-w-7xl px-4 mx-auto py-20">
+    <GitHubIcon />
     <div class="text-center mb-4">
       <h1 class="text-4xl font-bold mb-4">Laravel Roadmap Learning Path</h1>
       <p class="my-1 text-slate-800">This repository contains the <strong>ordered</strong> list of Laravel
@@ -43,6 +44,9 @@ const completedPercentageDisplay = computed(() => Math.floor(completedPercentage
         </a>.
       </p>
       <p class="text-sm text-slate-500">Your progress is saved locally on your machine.</p>
+      <p class="text-sm text-slate-500">
+        If you have suggestions/problems please contact <a href="https://twitter.com/MrMohamed98" target="_blank" class="font-semibold underline text-blue-600">@MrMohamed98</a>
+      </p>
     </div>
 
     <!-- Progress -->
